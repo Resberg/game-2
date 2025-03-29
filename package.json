@@ -1,0 +1,20 @@
+{
+  "name": "fps-game-project",
+  "version": "1.0.0",
+  "description": "A first-person shooter game project using TypeScript.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "typescript": "^4.5.0",
+    "ts-node": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
